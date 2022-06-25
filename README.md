@@ -1,2 +1,4 @@
 # password-generator-with-UI
-password generator with UI using PyQt5 
+ You can create password with this program
+ 
+ it's simple and easy tu use :)
